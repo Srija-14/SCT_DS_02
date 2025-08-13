@@ -48,7 +48,7 @@ Family Size: Moderate family size (SibSp + Parch) improved survival odds.
 
 1. Download or clone this repository:
 
-git clone https://github.com/Srija-14/titanic-eda.git
+git clone https://github.com/Srija-14/SCT_DS_02.git
 
 
 2. Open titanic_eda.ipynb in Jupyter Notebook.
