@@ -59,6 +59,4 @@ git clone https://github.com/Srija-14/SCT_DS_02.git
 📜 License
 
 This project is for educational purposes. The dataset is provided by Kaggle under its terms of use.
-📜 License
 
-This project is for educational purposes. The dataset is provided by Kaggle und
